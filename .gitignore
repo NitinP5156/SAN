@@ -57,4 +57,12 @@ htmlcov/
 nosetests.xml
 coverage.xml
 *.cover
-.hypothesis/ 
+.hypothesis/
+
+# Environment variables
+.env
+.env.local
+
+# Environment variables
+.env
+.env.local 
